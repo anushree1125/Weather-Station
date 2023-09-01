@@ -1,3 +1,8 @@
+# Weather station
+
+Link to the hosted site: https://64f183e6a429c02e4a4a5db4--incredible-pasca-99100b.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
